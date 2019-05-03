@@ -1,0 +1,8 @@
+{
+  "redis" : {
+    "hostname"      : "redis.foo.bar",
+    "port"          : 6379,
+    "password"      : "not_null",
+    "db"            : 12
+  }
+}
